@@ -39,6 +39,7 @@ User → Ingress → SonarQube (AKS) → [PostgreSQL]
 
 ## Prerequisites
 
+- Terraform files are in my other repository : https://github.com/AymaneK24/OWASP-ZAP/tree/main/Infrastructure
 - Azure subscription and Azure CLI (`az login`)
 - Terraform >= [version]
 - kubectl and Helm 3
